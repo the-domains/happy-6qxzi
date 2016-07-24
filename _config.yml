@@ -1,0 +1,14 @@
+layout_spectrum: 0.8013225006870925
+typography_spectrum: 0.9881677653174847
+color:
+  brandStrength: 0.7304616323672235
+  lightness: 0.3483080135192722
+  saturation: 0.9980194966774434
+  rhythmicContrast: 0.3307371879927814
+  brandColors:
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
+name: Happy
